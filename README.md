@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mateocdev
-- 👀 I’m full-stack developer
+- 👀 I’m front-end developer
 - 🌱 I’m currently learning web3 technologies
-- 📫 How to reach me mateocdev.co
+- 📫 How to reach me mateocdev.github.io
 
 <!---
 mateocdev/mateocdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
