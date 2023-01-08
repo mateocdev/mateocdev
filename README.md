@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mateocdev
-- 👀 I’m front-end developer
+- 👀 I’m software developer
 - 🌱 I’m currently learning web3 technologies
 - 📫 How to reach me mateocdev.github.io
 - :octocat: My second account @mateocgomez
