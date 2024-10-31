@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on @Globant<br>👯‍♀️ I'm looking to collborate on web development and mobile develop<br>🌱 I'm currently learning React Native<br>💬 Ask me about Angular, GoLang, React, Next.js, Vue.js , Shopify, AWS, Node.js, Nest.js<br>⚡️ Fun fact I love the funko pop figures, actually I have a collection of 72 funko<br>🚀 My second account @mateocgomez<br>🛸 How to reach me mateocdev.github.io
+🔭 I'm currently working on @Globant<br>👯‍♀️ I'm looking to collborate on web development and mobile develop<br>🌱 I'm currently learning Golang more deep<br>💬 Ask me about Angular, GoLang, React, Next.js, Vue.js , Shopify, AWS, Node.js, Nest.js<br>⚡️ Fun fact I love the funko pop figures, actually I have a collection of 72 funko<br>🚀 My second account @mateocgomez<br>🛸 How to reach me mateocdev.github.io
 
 
 ## 🌐 Socials:
